@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/Acik-Kaynak-Gelistirme-Toplulugu/.github/blob/main/profile/Ro-ASD%20logo.jpg?raw=true" alt="Ro-ASD Logo" width="150">
+  <img src="https://avatars.githubusercontent.com/u/248876122?s=400&u=c34a3840928e1b9e4ead1939f9c0d01bfbb0bd35&v=4" alt="Ro-ASD Logo" width="150">
 
   # Ro-ASD
   
   **Ro-ASD** is a Fedora-based Linux distribution designed to bridge the gap between powerful computing and everyday simplicity.
   
-  [Official Website (Coming Soon)](#) • [Documentation](#) • [Community](#)
+  [Official Website (Coming Soon)](#)
 </div>
 
 ---
